@@ -4,4 +4,24 @@
 .container, .content {
 width: 100%;
 height: 100%;
+
+}
+body{
+    background-color: lightgray;
+}
+nav{
+    display: inline-block;
+}
+.card{
+    width:95%;
+    height:45%;
+    margin-top:30px;
+}
+.card-img{
+    background-color: olivedrab;
+    width:45%;
+}
+.card-content{
+    background-color: white;
+    width:50%;
 }
